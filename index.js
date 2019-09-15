@@ -15,4 +15,3 @@ function johnLennonFacts(){
     }
     return hisFacts;
   }
-
