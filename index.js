@@ -5,10 +5,10 @@ function theBeatlesPlay(musicians,instruments){
 
     return allTheMusicians;
 }// add solution here
-// function theBeatlesPlay(players, instruments) {
-//     var allPlayers = [];
-//     for (var i=0; i < players.length; i++) {
-//         allPlayers.push(players[i] + " plays " + instruments[i]);
-//     }
-//     return allPlayers;
-// }
+function johnLennonFacts(){
+  var facts=["He hated the sound of his own voice", "He was the last Beatle to learn to drive"];
+while(johnLennonFacts()){
+  console.log("He hated the sound of his own voice!!!");
+  console.log("He was the last Beatle to learn to drive!!!");
+}
+}
